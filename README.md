@@ -1,5 +1,5 @@
-###console.log('Hello world!, 👋')
 # 💫 About Me:
+console.log('Hello world!, 👋')
 Hello, my name is Tomas Seiberl currently my goal is to become a full stack developer.
 I like the challenge of programming and I hope to meet great teams where to create solutions.
 
